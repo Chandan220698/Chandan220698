@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Data Science.
-- 📫 How to reach me: [LinkedIn - @ChandanKumar](@https://www.linkedin.com/in/chandan-kumar-ck111/)
+- 📫 How to reach me: [LinkedIn - @ChandanKumar](https://www.linkedin.com/in/chandan-kumar-ck111/)
 <!--
 **Chandan220698/Chandan220698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
