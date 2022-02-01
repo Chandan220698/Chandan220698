@@ -21,6 +21,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/chandan-kumar-ck111/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/7clash_ck/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!--
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
