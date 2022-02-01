@@ -1,6 +1,6 @@
 <h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chandan Kumar</h2>
-<h3 align="center">I'm a Data Science enthusiast.</h3>
-
+<!--<h3 align="center">I'm a Data Science enthusiast.</h3>-->
+### Hi there 👋
 
 ## 🙋‍♂️ About Me
 
