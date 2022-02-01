@@ -8,7 +8,7 @@
 - 📫 How to reach me: **[LinkedIn - @ChandanKumar](https://www.linkedin.com/in/chandan-kumar-ck111/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -18,7 +18,7 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
 </p>
 
-## Connect with me:
+### Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/chandan-kumar-ck111/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -31,7 +31,7 @@
 </p>
 
 
-## ❤ Views and Followers
+### ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chandan220698">
 </a>
