@@ -1,6 +1,4 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Data Science.
-- 📫 How to reach me: [LinkedIn - @ChandanKumar](https://www.linkedin.com/in/chandan-kumar-ck111/)
 
 ## 🙋‍♂️ About Me
 
