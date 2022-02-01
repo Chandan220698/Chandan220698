@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 ### 🚀 Languages and Tools:
-
+<hr>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
@@ -19,6 +19,7 @@
 </p>
 
 ### Connect with me:
+<hr>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/chandan-kumar-ck111/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -32,6 +33,7 @@
 
 
 ### ❤ Views and Followers
+<hr>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chandan220698">
 </a>
