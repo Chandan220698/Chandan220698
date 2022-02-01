@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Data Science.**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chandan220698/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chandan220698?tab=repositories)**
 - 📫 How to reach me: **[LinkedIn - @ChandanKumar](https://www.linkedin.com/in/chandan-kumar-ck111/)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/Chandan220698/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
