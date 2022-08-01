@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Image to Text Converter**
+- 🔭 I’m currently working on **Deep Learning**
 - 🌱 I’m currently learning **Data Science.**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chandan220698?tab=repositories)**
 - 📫 How to reach me: **[LinkedIn - @ChandanKumar](https://www.linkedin.com/in/chandan-kumar-ck111/)**
